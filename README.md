@@ -1,6 +1,5 @@
 # Unity Itch.io Uploader
 
-**Short description:**  
 Upload your Unity game builds to [Itch.io](https://itch.io) right from the Unity Editor.
 The package automates calling butler and lets you configure upload parameters without leaving Unity.
 
